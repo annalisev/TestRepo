@@ -14,3 +14,7 @@ You can then send code youo have perfected in your new repository back to the ol
 
 Issues can be raised by people working on a repository. They are found in the issues tab. They can then be addressed and then the issue will be closed.
 Cloning is the act of taking a repository from github (or similar) and cloning (downloading a copy) to your computer
+
+
+Pushing is the act of sending a repository to github
+Pulling is the act of recieving a repository from github
