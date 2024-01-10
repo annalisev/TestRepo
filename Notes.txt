@@ -4,3 +4,5 @@ Commit: Make a save
   Each commit can be identified by a unique hash
 
 In a repository you have a main (master) branch and also other branches
+
+A pull request can bring changes made into branches into the main version
