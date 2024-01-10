@@ -3,4 +3,4 @@ Commit: Make a save
   You can add a note with every commit (save)
   Each commit can be identified by a unique hash
 
-In a repository you have a master branch and also other branches
+In a repository you have a main (master) branch and also other branches
