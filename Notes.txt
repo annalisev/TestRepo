@@ -1,2 +1,3 @@
 Repository: Collection of stuff
 Commit: Make a save
+  You can add a note with every commit (save)
