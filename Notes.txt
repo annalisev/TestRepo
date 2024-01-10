@@ -11,3 +11,5 @@ A pull request can bring changes made into branches into the main version
 
 Forking a repository means taking an instance of a repository from someone elses account and bringing it to your own account in a new repository, so you can freely make changes without affecting the original reopsitory
 You can then send code youo have perfected in your new repository back to the old repository you got it from in order to help that person through a pull request. The orignal person can then choose to accept or reject your changes
+
+Issues can be raised by people working on a repository. They are found in the issues tab. They can then be addressed and then the issue will be closed.
