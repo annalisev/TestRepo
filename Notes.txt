@@ -1,3 +1,6 @@
 Repository: Collection of stuff
 Commit: Make a save
   You can add a note with every commit (save)
+  Each commit can be identified by a unique hash
+
+In a repository you have a master branch and also other branches
